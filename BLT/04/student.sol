@@ -3,7 +3,7 @@
 //Arrays
 //Fallback
 //Deploy this as smart contract on Ethereum and Observe the transaction fee and Gas values.
-pragma solidity 0.8.0;
+pragma solidity ^0.8.0;
 
 // Build the Contract
 contract MarksManagmtSys
